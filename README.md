@@ -92,6 +92,3 @@ This implementation is for educational purposes. For production use, consider:
 
 This project is open source and available for educational use.
 
-## 👤 Author
-
-Developed as part of Computer and Network Security coursework.
