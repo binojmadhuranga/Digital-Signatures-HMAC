@@ -4,7 +4,6 @@ A Python implementation demonstrating digital signatures using RSA encryption an
 
 ## 📋 Overview
 
-
 This project implements cryptographic techniques for:
 - **Digital Signatures**: Sign and verify messages using RSA public-key cryptography
 - **HMAC**: Generate and verify message authentication codes using shared secret keys
