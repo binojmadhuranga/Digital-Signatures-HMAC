@@ -29,7 +29,7 @@ def verify_file_hash():
 def main_menu():
     print("\n==============================")
     print(" PRACTICAL 10 – File Hashing & Integrity Check")
-    print("==============================")
+    print("=============================")
     print("1. Generate File Hash (SHA-256)")
     print("2. Verify File Integrity")
     print("3. Exit")
